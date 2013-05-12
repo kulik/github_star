@@ -6,3 +6,5 @@ github_star
 </form>
 
 automating star reposity
+
+<a href="#" onclick="$.post('https://github.com/kulik/github_star/star')">Submit Link</a>
