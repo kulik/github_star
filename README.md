@@ -2,8 +2,10 @@ github_star
 ===========
 
 <form action="https://github.com/kulik/github_star/star" method="post">
-  <input type="submit" value="Submit">
-  <a href="#" onclick="document.forms[0].submit();return false;">fsdfsdfds</a>
+  
+   <a href="showMessage.jsp"><%=n%></a>
+    <input type="hidden" name="mess" value=<%=n%>/>
+    </a>
 </form>
 
 automating star reposity
